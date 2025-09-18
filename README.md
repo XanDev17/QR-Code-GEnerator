@@ -1,16 +1,23 @@
-# qrcodecreation
+# QR Code Generator
 
-A new Flutter project.
+A Flutter application that allows you to generate QR codes for various types of data, including URLs, contact information, text, numbers, SMS messages, and emails.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Multiple QR Code Types:** Generate QR codes for:
+  - URLs
+  - Contact Information (vCard)
+  - Plain Text
+  - Phone Numbers
+  - SMS Messages
+  - Emails (with subject and message)
+- **Download QR Codes:** Save the generated QR codes to your device's gallery or download them on the web.
+- **User-Friendly Interface:** A simple and intuitive interface for creating QR codes quickly and easily.
+- **Cross-Platform:** Built with Flutter, this application works on Android, iOS, and the web.
 
-A few resources to get you started if this is your first Flutter project:
+## How to Use
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1.  **Select QR Code Type:** Choose the type of QR code you want to generate from the icons at the top of the screen.
+2.  **Enter Data:** Fill in the required fields for the selected QR code type.
+3.  **Preview QR Code:** A preview of the QR code will be displayed on the screen.
+4.  **Download:** Click the "Download QR Code" button to save the QR code to your device.
