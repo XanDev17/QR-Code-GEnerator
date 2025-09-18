@@ -21,3 +21,8 @@ A Flutter application that allows you to generate QR codes for various types of 
 2.  **Enter Data:** Fill in the required fields for the selected QR code type.
 3.  **Preview QR Code:** A preview of the QR code will be displayed on the screen.
 4.  **Download:** Click the "Download QR Code" button to save the QR code to your device.
+
+## Images
+
+![QR Code](android/images/qr.png)
+![QR Code 1](android/images/qr1.png)
